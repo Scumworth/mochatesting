@@ -2,7 +2,6 @@ const { AuthController } = require('../../controllers/auth.controller');
 
 //note should is a function here
 const expect = require('chai').expect;
-const should = require('chai').should();
 const chai = require('chai');
 const chaiAsPromised = require('chai-as-promised');
 const sinon = require('sinon');
